@@ -1,0 +1,51 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+
+# ============== #
+# Custom Ignores #
+# ============== #
+
+/Clients
+Assets/StreamingAssets/Config.json
+Assets/StreamingAssets/Config.json.meta
+Resources.meta
+Scenes.meta
+Scripts.meta
+ThirdParty.meta
+Prefabs.meta
+Examples.meta
+Docs.meta
+Art.meta
+LICENSE.meta
+CHANGELOG.md.meta
+README.md.meta
